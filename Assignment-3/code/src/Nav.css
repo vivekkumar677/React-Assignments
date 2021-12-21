@@ -1,0 +1,20 @@
+.nav-bowl{
+    background-color: rgb(193, 212, 212);
+    width:100vw;
+    display:flex;
+    height:10vh;
+
+}
+.nav-bowl-1{
+    display: flex;
+    width: 90vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.nav-bowl-2 button{
+    margin:0.3vw;
+    width:8vw;
+    height:8vh;
+
+}
