@@ -1,0 +1,27 @@
+{
+    
+    "user":
+    [
+        {"name":"Shiva",
+        "location":"Bengaluru",
+        "likes":64,
+        "description": "Kick start your career",
+        "PostImage": "./images/Indian_Army.png",
+        "date": "10 Jan 2021"
+        },
+        {"name":"Ankit",
+        "location":"Pune",
+        "likes":30,
+        "description": "Sample Description",
+        "PostImage": "./images/Indian_Army.png",
+        "date": "06 Jan 2021"
+        },
+        {"name":"Shivam",
+        "location":"Hyderabad",
+        "likes":30,
+        "description": "Sample Description for Post",
+        "PostImage": "./images/Indian_Army.png",
+        "date": "29 Dec 2020"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+
+.image{
+    margin:10px;
+    border: 5px solid orange;
+    height: 500px;
+    width: 700px;
+    margin-right: 40px;
+}
+
+.button {
+    position:absolute;
+    top:280px;
+    text-decoration: none;
+    padding: 25px 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #23e41c;
+    background-color: blueviolet;
+    border-radius: 20px;
+    border: 5px solid grey;
+
+}
